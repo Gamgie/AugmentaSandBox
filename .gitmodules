@@ -1,0 +1,6 @@
+[submodule "Assets/Plugins/GenUI"]
+	path = Assets/Plugins/GenUI
+	url = https://github.com/Theoriz/GenUI
+[submodule "Assets/Plugins/Augmenta"]
+	path = Assets/Plugins/Augmenta
+	url = https://github.com/Theoriz/AugmentaUnity
